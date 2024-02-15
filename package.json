@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "license": "DAM",  
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0"
+  }
+}
